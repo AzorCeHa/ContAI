@@ -1,0 +1,14 @@
+{
+  "name": "contai",
+  "version": "1.0.0",
+  "description": "AI multi-provider CLI with numeric navigation menu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@groq/groq-sdk": "^0.5.0",
+    "chalk": "^5.3.0"
+  }
+}
